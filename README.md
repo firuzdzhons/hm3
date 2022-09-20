@@ -10,4 +10,4 @@
     docker push firuzdzhonsa/myapp:0.1
 
 # Команда для загрузки вашего образа
-    docker push firuzdzhonsa/myapp
+    docker pull firuzdzhonsa/myapp
